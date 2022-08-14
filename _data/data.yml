@@ -61,10 +61,10 @@ education:
       university: University of Nagpur
       time: 2017 - 2021
       details: |
-      An engineering student with a record of academic and extracurricular success
-      Extensive leadership experience, particularly within a higher education setting
-      Adept at working across departments, with faculty, administrators, and students
-      Award-winning written communication skills
+        An engineering student with a record of academic and extracurricular success
+        Extensive leadership experience, particularly within a higher education setting
+        Adept at working across departments, with faculty, administrators, and students
+        Award-winning written communication skills
           - 75% in academics
           - 10+ projects built.
 experiences:
@@ -72,9 +72,9 @@ experiences:
       time: 2021 - Present
       company: Persistent Systems
       details: |
-      A website which enables healthcare organizations to
-      adopt cloud software technologies with market-leading security and
-      compliance solutions.
+        A website which enables healthcare organizations to
+        adopt cloud software technologies with market-leading security and
+        compliance solutions.
           - Worked on creating new sections using best coding practices in
             angular as a front-end developer.
           - Worked on upgrading the application dependencies and angular
