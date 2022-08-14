@@ -114,15 +114,15 @@ projects:
         link: "#"
         tagline: "Built many websites to develop UI skills"
 
-publications:
-    title: 
-    intro: 
+# publications:
+#     title: 
+#     intro: 
 
-    papers:
-      - title: 
-        link: 
-        authors: 
-        conference: 
+#     papers:
+#       - title: 
+#         link: 
+#         authors: 
+#         conference: 
 
 skills:
     title: Skills &amp; Proficiency
