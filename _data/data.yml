@@ -154,32 +154,8 @@ skills:
       - name: AWS & Azure
         level: 75%
 
-certifications:
-    title: Certifications & Awards
-    items:
-      - title: High Five - Individual Awards
-        organization: Persistent Systems
-        date: August 2021
-        
-      - title: AZ-900: Microsoft Azure Fundamentals
-        organization: Microsoft
-        date: September 2021
-        
-      - title: AWS Certified Cloud Practitioner
-        organization: AWS
-        date: 2022
-        
-      - title: 200+ DSA Problems
-        organization: Leetcode, Neetcode, GFG & HackerRank
-        date: Ongoing
-
-strengths:
-    title: Strengths
-    items:
-      - Accelerated on-boarding, resulted in 30% reduction in ramp-up time
-      - Dedicated towards work & words
-      - Quickly acquired new skills; mastered NestJS in 1 week, enabling API delivery
-      - Creative and enthusiast
+# The custom sections I added may be causing the issue. Let's remove them and use the original format
+# certifications and strengths sections were not in the original file structure
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="#" target="_blank" rel="nofollow">Aman Sachdev</a>
